@@ -164,11 +164,6 @@ a {
     border-left: 2px solid #212529;
     padding-left: 3.5rem;
   }
-@media (max-width: 768px) {
-    .about-working-hours {
-      border-left: none;
-    }
-  }
   .bg-color {
     background-color: var(--orange-color);
     transition: .3s;
